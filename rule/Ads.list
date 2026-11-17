@@ -1258,6 +1258,7 @@
 +.ads-acc.qqbrowser.qq.com
 +.ads-adnet-drcn.cloud.honor.com
 +.ads-api-o.api.leiniao.com
++.ads-api-t.my7v.com
 +.ads-api.duolingo.com
 +.ads-api.vivo.com
 +.ads-dra.platform.hihonorcloud.com
@@ -1280,6 +1281,7 @@
 +.ads-marketing-vivofs.vivo.com.cn
 +.ads-monitoring.papegames.com
 +.ads-monitoring.shziyi.com
++.ads-o.res.leiniao.com
 +.ads-pixiv.net
 +.ads-shopping.shouqianba.com
 +.ads-splash-i1.xhscdn.com
@@ -4407,6 +4409,7 @@
 +.is5qd8sk7a.com
 +.iscrv.com
 +.isdspeed.qq.com
++.isms-o.api.my7v.com
 +.itm1yqknq.com
 +.its1zeqni.com
 +.itsdata.map.baidu.com
@@ -9033,21 +9036,20 @@ admarketing.yahoo.net
 admobile.top
 adreq.vivo.com.cn
 ads-api-o.api.leiniao.com
-ads-api.tiktok.com
 ads-api.twitter.com
 ads-gate.wildberries.ru
 ads-img-al.xhscdn.com
+ads-img-bak.xhscdn.com
 ads-img-qc.xhscdn.com
 ads-img.mozilla.org
 ads-integration.rustore.ru
-ads-jp.tiktok.com
 ads-marketing-vivofs.vivo.com.cn
 ads-media.wildberries.ru
 ads-sdk-api.ranfenghd.com
-ads-sg.tiktok.com
 ads-shopping.shouqianba.com
 ads-video-al.xhscdn.com
 ads-video-qc.xhscdn.com
+ads-vp5.xhscdn.com
 ads.95516.com
 ads.adfunlink.com
 ads.auctions.yahoo.com
@@ -9069,7 +9071,6 @@ ads.raidrive.com
 ads.rustore.ru
 ads.servebom.com
 ads.service.kugou.com
-ads.tiktok.com
 ads.v3mh.com
 ads.vk.com
 ads.vk.ru
@@ -9117,7 +9118,6 @@ adsmind.gdtimg.com
 adsmind.ugdtimg.com
 adsmoloco.com
 adsp.xunlei.com
-adspecs.yahoo.com
 adstat.izuiyou.com
 adstats.tencentmusic.com
 adstextview.qq.com
@@ -9125,9 +9125,7 @@ adstore-1252524079.file.myqcloud.com
 adstore-index-1252524079.file.myqcloud.com
 adstrategy.biz.weibo.com
 adstudio-assets.scdn.co
-adstudio.spotify.com
 adtago.s3.amazonaws.com
-adtech.yahooinc.com
 adtrack.quark.cn
 adtracker.adfunlink.com
 adtracker.medproad.com
@@ -9144,12 +9142,6 @@ advert-api.wb.ru
 advert-api.wildberries.ru
 advert-media-api.wb.ru
 advert-media-api.wildberries.ru
-advertising-api-eu.amazon.com
-advertising-api-fe.amazon.com
-advertising-api.amazon.com
-advertising.apple.com
-advertising.yahoo.com
-advertising.yandex.ru
 advice-ads.s3.amazonaws.com
 adview.cn
 advk.vk.ru
@@ -9166,6 +9158,7 @@ adx-saas.advlion.com
 adx-strategy-api-cn.statisticslinks.com
 adx.ads.heytapmobi.com
 adx.ads.oppomobile.com
+adx.anythinktech.com
 adx.appsdk.com.cn
 adx.sogaha.cn
 adx.tuia.cn
@@ -9185,6 +9178,7 @@ alicoccdncnc-xn.inter.71edge.com
 alicoccdnct-xn.inter.71edge.com
 alltbcsp2p.baidu.com
 alog.umeng.com
+alogsus.umeng.com
 alogus.umeng.com
 als.baidu.com
 alt-r.my.com
@@ -9212,6 +9206,7 @@ analytics.wildberries.ru
 analytics.woozooo.com
 analyticsengine.s3.amazonaws.com
 analyze.lemurbrowser.com
+android.bugly.qq.com
 andrqd.play.aiseet.atianqi.com
 ap.dongdianqiu.com
 ap.dongqiudi.com
@@ -9265,6 +9260,7 @@ api.yfanads.com
 api5-normal-quic-lf.ixigua.com
 apilog-web.acfun.cn
 apiyd.my91app.com
+apmplus.volces.com
 app-measurement.com
 appcfg.v.qq.com
 applog-perf.uc.cn
@@ -9296,7 +9292,7 @@ beizi.biz
 bes-mtj.baidu.com
 bgg.baidu.com
 bianxian.com
-bingads.microsoft.com
+bid.shanghailingye.cn
 biz.weibo.com
 bj-td-menta-01-callback.advlion.com
 bj.ad.track.66mobi.com
@@ -9347,9 +9343,13 @@ click.liftoff.io
 click.oneplus.cn
 click.rustore.ru
 click4.chinaliftoff.io
+client-upload.cn-shanghai.log.aliyuncs.com
 clog.miguvideo.com
 cloooud.com
+cn-api-sec.anythinktech.com
 cn-api.anythinktech.com
+cn-da.anythinktech.com
+cn-tk.anythinktech.com
 cnlogs.umeng.com
 cnlogs.umengcloud.com
 cnzz.com
@@ -9364,10 +9364,10 @@ cpc-service-square.aiclk.com
 cpro.baidustatic.com
 crash2.zhihu.com
 crashlyticsreports-pa.googleapis.com
-csjplatform.com
 d.applovin.com
 d.applvn.com
 da.anythinktech.com
+da.statisticslinks.com
 data-sdk-uuid-log.d.meituan.net
 data.ads.oppomobile.com
 data.chsmarttv.com
@@ -9389,6 +9389,7 @@ downloadxml.changhong.upgrade2.huan.tv
 dsp-x.jd.com
 dsp.fcbox.com
 dsplog-adnet.vivo.com.cn
+du-app.cn-hangzhou.log.aliyuncs.com
 dualstack-logs.amap.com
 dxp.baidu.com
 dyp2p-ali.douyucdn.cn
@@ -9399,6 +9400,10 @@ edge.ads.twitch.tv
 ef-dongfeng.tanx.com
 engine.dcad01.com
 entry.baidu.com
+errlog.umeng.com
+errlogos.umeng.com
+errnewlog.umeng.com
+errnewlogos.umeng.com
 error-tracking.megamarket.tech
 et-eus.w.inmobi.com
 event.tradplusad.com
@@ -9412,6 +9417,7 @@ feed-image.baidu.com
 file.daihuo.qq.com
 firebaselogging-pa.googleapis.com
 flurry.com
+fp-it.fengkongcloud.com
 frontend-perf-service.e.kuaishou.com
 fxgate.baidu.com
 g-adnet.hiaiabc.com
@@ -9528,6 +9534,7 @@ kwpush.kuwo.cn
 l6.fancyapi.com
 launcher.smart-tv.cn
 launcherimg.smart-tv.cn
+lf-event-manager.oceanengine.com
 lf3-ad-union-sdk.pglstatp-toutiao.com
 lf6-ad-union-sdk.pglstatp-toutiao.com
 lftxali.fancyapi.com
@@ -9546,6 +9553,7 @@ log-api-mn.huxiu.com
 log-api.huxiu.com
 log-api.pangolin-sdk-toutiao-b.com
 log-api.pangolin-sdk-toutiao.com
+log-auth.zztfly.com
 log-report.com
 log-sdk.gifshow.com
 log-sdk.ksapisrv.com
@@ -9835,6 +9843,8 @@ service.changhong.upgrade2.huan.tv
 service.vmos.cn
 sf16-static.i18n-pglstatp.com
 sf3-fe-tos.pglstatp-toutiao.com
+shihuo-new.log.shihuocdn.cn
+shihuo.log.shihuocdn.cn
 shouji.sogou.com
 sigmob.com
 skdisplay.jd.com
@@ -9847,6 +9857,7 @@ sms.ads.oppomobile.com
 sngmta.qq.com
 snowflake.qq.com
 srch-telemeter10.g.smailru.net
+ssapi.anythinktech.com
 ssp.cloooud.com
 stacks.vk-portal.net
 staging-notify.sec.miui.com
@@ -9901,6 +9912,7 @@ test.e.ad.xiaomi.com
 tj.b.qq.com
 tj.video.qq.com
 tk.anythinktech.com
+tk.statisticslinks.com
 tmead.y.qq.com
 tmeadcomm.y.qq.com
 tmfmazu-wangka.m.qq.com
@@ -9918,6 +9930,7 @@ tnc3-alisc1.toutiaoapi.com
 tnc3-bjlgy.bytedance.com
 tnc3-bjlgy.snssdk.com
 tnc3-bjlgy.toutiaoapi.com
+tobapplog.ctobsnssdk.com
 toblog.ctobsnssdk.com
 top-staging.mail.ru
 tpa-hcdn.iqiyi.com
@@ -9961,9 +9974,8 @@ umengjmacs.m.taobao.com
 umini.shujupie.com
 union-mlog.bigda.com
 union-record.oss-cn-zhangjiakou.aliyuncs.com
-union.baidu.cn
-union.baidu.com
 unityads.unity3d.com
+upc.zztfly.com
 update.avlyun.sec.miui.com
 update.lejiao.tv
 update0.aiclk.com
